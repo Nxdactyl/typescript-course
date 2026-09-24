@@ -1,1 +1,1 @@
-# nyrox-typescript
+# typescript course
